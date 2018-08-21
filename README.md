@@ -7,7 +7,7 @@
 ## Instructions
 * ### Every issue start its life with the first post, this post should be a clear expleneation of the issue/feature/proposal/whatever.
 
-* ### People can and should upvote/downvote issues. If you have suggestions/comments/anything that can contribute the issue, please do join the discussion (or start a new one) on the issue thread.
+* ### People can and should upvote/downvote issues. If you have suggestions/comments/anything that can benefit the issue, please do join the discussion (or start a new one) on the issue thread.
 
 * ### Another way to show your looove for an issue (beyond upvoting) is by offering a bounty for implementation of that issue. GitCoin bounty link will exist in the top post body. Feel free to add your proposed contribution to the existing bounty.
 
